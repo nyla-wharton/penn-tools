@@ -12,7 +12,8 @@
   "dependencies": {
     "@penntools/core": "workspace:*",
     "@penntools/platform": "workspace:*",
-"@penntools/tool-platform-playground": "workspace:*",
+    "@penntools/tool-platform-playground": "workspace:*",
+    "@penntools/tool-penn-planner": "workspace:*",
     "next": "^14.2.0",
     "react": "^18.3.0",
     "react-dom": "^18.3.0"
